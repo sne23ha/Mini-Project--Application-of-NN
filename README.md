@@ -36,6 +36,7 @@ result=np.hstack((result, mfccs))
 accuracy=accuracy_score(y_true=y_test, y_pred=y_pred)
 print("Accuracy: {:.2f}%".format(accuracy*100))
 ```
+```
 <title>recommendation</title>
 
 <style type="text/css">
@@ -86,7 +87,7 @@ print("Accuracy: {:.2f}%".format(accuracy*100))
 </a>
 </form>
 </center>	
-
+```
 ## Dataset :
 
 ![image](https://user-images.githubusercontent.com/96875495/205837996-86f49ade-88f7-4c59-9834-2da993647c7d.png)
